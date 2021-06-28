@@ -130,9 +130,9 @@
             display: inline-block;
             position: relative;
             width: 72px;
-            height: 50px;
+            height: 52px;
             right: 12px;
-            bottom: 1px;
+            bottom: 2px;
             cursor: pointer;
             border: none;
             background: no-repeat;

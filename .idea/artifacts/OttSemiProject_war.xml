@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="OttSemiProject:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>OttSemiProject</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="OttSemiProject-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="OttSemiProject:war exploded" />
+    </root>
+  </artifact>
+</component>

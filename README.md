@@ -1,2 +1,2 @@
 # Ott Semi Proeject
-Semi Project입니다.
+Semi Project입니다......

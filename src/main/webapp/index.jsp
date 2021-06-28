@@ -8,7 +8,6 @@
     <title>Main</title>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script>
-        $(function () {
             $("#headers").load("header.html");
         });
     </script>
